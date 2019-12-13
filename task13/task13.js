@@ -1,0 +1,10 @@
+var a = 10;
+document.write("Result"+ "<br>"+"The value of a is :"+ a +"<br>"+"========================="+"<br>");
+a++; 
+document.write("<br>"+"The value of ++a is: " + a + "<br>" +"Now the value of a is :"+ a +"<br>");
+a++;
+document.write("<br>"+"The value of ++a is: " + a + "<br>" +"Now the value of a is :"+ a +"<br>");
+a--;
+document.write("<br>"+"The value of --a is: " + a + "<br>" +"Now the value of a is :"+ a +"<br>");
+a--;
+document.write("<br>"+"The value of --a is: " + a + "<br>" +"Now the value of a is :"+ a  + "<br>"+"<hr>");
